@@ -1,13 +1,13 @@
-package tn.esprit.examen;
+package tn.esprit.examenspringboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ExamenApplication {
-// test commit
+public class ExamenSpringBootApplication {
+
 	public static void main(String[] args) {
-		SpringApplication.run(ExamenApplication.class, args);
+		SpringApplication.run(ExamenSpringBootApplication.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package tn.esprit.examen;
+package tn.esprit.examenspringboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ExamenApplicationTests {
+class ExamenSpringBootApplicationTests {
 
 	@Test
 	void contextLoads() {
